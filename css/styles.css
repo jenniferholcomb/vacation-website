@@ -8,3 +8,8 @@
 .color p {
   background-color: blanchedalmond;
 }
+
+h1 {
+  font-style: italic;
+  color: blue;
+}
